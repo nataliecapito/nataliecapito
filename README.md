@@ -6,8 +6,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natalie-capito-33130112b/)
 [![Strava](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://www.strava.com/athletes/71219674)
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <p align="left">
-    <div style="fontSize: 12px;">
+    <div style="font-size: 12px;">
         <div
             style="
                 justify-content: flex-start;
