@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <p align="left">
     <div style="justify-content: flex-start; flex-direction: row; align-items: center; flex-wrap: wrap; display: flex;"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="20px" height="20px" />
         <i class="devicon-androidstudio-plain colored"></i>
         <i class="devicon-apple-original colored"></i>
         <i class="devicon-atom-original colored"></i>
