@@ -63,7 +63,7 @@ Welcome to my Github page! My name is Natalie Capito. I am a Senior Software Eng
     src="/images/run.png" 
     width="40%" 
     height="auto" 
-    style="s 
+    style=" 
         overflow: hidden;
         border-radius: 10px;
         margin: 0px;
