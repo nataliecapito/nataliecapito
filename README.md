@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natalie-capito-33130112b/)
 [![Strava](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://www.strava.com/athletes/71219674)
 
-<div style={{ fontSize: '12px' }}>
+<code><div style={{ fontSize: '12px' }}>
     <div
         style={{
             justifyContent: 'flex-start',
@@ -51,14 +51,14 @@
         <i class="devicon-vscode-plain colored"></i>
         <i class="devicon-xcode-plain colored"></i>
     </div>
-</div>
+</div></code>
 
 Welcome to my Github page! My name is Natalie Capito. I am a Senior Software Engineer, currently leading and overseeing the Mobile Department at AutoiPacket, LLC. I specialize on the client side with Front-End technologies, devices, and platforms. My recent focus is on native application software development. I earned my Computer Science degree from Saint Vincent College in 2016, and have two minors, one in Graphic Design, and the other in Communication.
 
 <img 
     align="right" 
     alt="img" 
-    src="/Users/natalie/Documents/Coding/nataliecapito/images/run.png" 
+    src="/images/run.png" 
     width="auto" 
     height="auto" 
 />
