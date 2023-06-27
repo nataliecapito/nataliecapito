@@ -64,10 +64,10 @@ Welcome to my Github page! My name is Natalie Capito. I am a Senior Software Eng
     width="40%" 
     height="auto" 
     style={{ 
-        overflow: 'hidden', 
-        border-radius: '10px',
-        margin: '0px',
-        padding: '0px',
+        overflow: 'hidden';
+        border-radius: 10px;
+        margin: 0px;
+        padding: 0px,
     }}
 />
 
