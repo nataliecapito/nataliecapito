@@ -6,44 +6,41 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natalie-capito-33130112b/)
 [![Strava](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://www.strava.com/athletes/71219674)
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <p align="left">
-    <div style="justify-content: flex-start; flex-direction: row; align-items: center; flex-wrap: wrap; display: flex;"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="20px" height="20px" />
-        <i class="devicon-androidstudio-plain colored"></i>
-        <i class="devicon-apple-original colored"></i>
-        <i class="devicon-atom-original colored"></i>
-        <i class="devicon-bitbucket-original-wordmark colored"></i>
-        <i class="devicon-chrome-plain-wordmark colored"></i>
-        <i class="devicon-confluence-original-wordmark colored"></i>
-        <i class="devicon-css3-plain-wordmark colored"></i>
-        <i class="devicon-eslint-original-wordmark colored"></i>
-        <i class="devicon-firebase-plain-wordmark colored"></i>
-        <i class="devicon-firefox-plain-wordmark colored"></i>
-        <i class="devicon-git-plain-wordmark colored"></i>
-        <i class="devicon-github-original-wordmark colored"></i>
-        <i class="devicon-gradle-plain-wordmark colored"></i>
-        <i class="devicon-html5-plain-wordmark colored"></i>
-        <i class="devicon-ie10-original colored"></i>
-        <i class="devicon-javascript-plain colored"></i>
-        <i class="devicon-jest-plain colored"></i>
-        <i class="devicon-jira-plain colored"></i>
-        <i class="devicon-nodejs-plain colored"></i>
-        <i class="devicon-npm-original-wordmark colored"></i>
-        <i class="devicon-objectivec-plain colored"></i>
-        <i class="devicon-photoshop-plain colored"></i>
-        <i class="devicon-react-original-wordmark colored"></i>
-        <i class="devicon-redux-original colored"></i>
-        <i class="devicon-safari-plain-wordmark colored"></i>
-        <i class="devicon-sass-original colored"></i>
-        <i class="devicon-slack-plain-wordmark colored"></i>
-        <i class="devicon-sourcetree-original-wordmark colored"></i>
-        <i class="devicon-swift-plain-wordmark colored"></i>
-        <i class="devicon-trello-plain-wordmark colored"></i>
-        <i class="devicon-typescript-plain colored"></i>
-        <i class="devicon-vscode-plain colored"></i>
-        <i class="devicon-xcode-plain colored"></i>
-    </div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg"width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg"width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg"width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="20px" height="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="20px" height="20px" />
 </p>
 
 Welcome to my Github page! My name is Natalie Capito. I am a Senior Software Engineer, currently leading and overseeing the Mobile Department at AutoiPacket, LLC. I specialize on the client side with Front-End technologies, devices, and platforms. My recent focus is on native application software development. I earned my Computer Science degree from Saint Vincent College in 2016, and have two minors, one in Graphic Design, and the other in Communication.
