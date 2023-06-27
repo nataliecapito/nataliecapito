@@ -7,15 +7,15 @@
 [![Strava](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://www.strava.com/athletes/71219674)
 
 <p align="left">
-    <div style={{ fontSize: '12px' }}>
+    <div style="fontSize: 12px;">
         <div
-            style={{
-                justifyContent: 'flex-start',
-                flexDirection: 'row',
-                alignItems: 'center',
-                flexWrap: 'wrap',
-                display: 'flex',
-            }}
+            style="
+                justify-content: flex-start;
+                flex-direction: row;
+                align-items: center;
+                flex-wrap: wrap;
+                display: flex;
+            "
         >
             <i class="devicon-android-plain colored"></i>
             <i class="devicon-androidstudio-plain colored"></i>
@@ -63,12 +63,12 @@ Welcome to my Github page! My name is Natalie Capito. I am a Senior Software Eng
     src="/images/run.png" 
     width="40%" 
     height="auto" 
-    style={{ 
+    style="s 
         overflow: hidden;
         border-radius: 10px;
         margin: 0px;
         padding: 0px,
-    }}
+    "
 />
 
 #### 👨‍💻 Mobile App & Website Projects
