@@ -47,7 +47,7 @@ Welcome to my Github page! My name is Natalie Capito. I am a Senior Software Eng
 <img 
     align="right" 
     alt="img" 
-    src="/images/run.png" 
+    src="/images/run_2.jpeg"
     width="40%" 
     height="auto" 
     style="overflow: hidden; border-radius: 10px; margin: 0px; padding: 0px;"
@@ -69,4 +69,4 @@ Welcome to my Github page! My name is Natalie Capito. I am a Senior Software Eng
 - Video games
 - Soft. development
 
-<sub>Updated: 06.27.2023</sub>
+<sub>Updated: 10.26.2023</sub>
